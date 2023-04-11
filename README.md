@@ -1,5 +1,6 @@
-# codexwithg.github.io
 # reading-notes
+
+This repository contains my important notes.
 
 ##Code 102 - Intro to Software Development
 
