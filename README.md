@@ -6,12 +6,6 @@ This repository contains my important notes.
 
 ## ~Code 201 - Foundations of Software Development~
 
-## Code 301 - *Intermediate Software Development*
-
-## Code 401 - ***Advanced Software*** Development
-
-## _-Things-I-want-to-know-more-about_
-
 ## class-01.md
 
 ###In order to be able to understand programming and development, it is important to know the anatomy and structure behind building a website and or program.  
@@ -59,3 +53,11 @@ This repository contains my important notes.
 ###JavaScript
 
 ###Two things that require JavaScript would be programming with 2D/3D graphics and animation.  To add JavaScript to HTML employ the HTML script tag in the head or body section depending on where you would like to load the JavaScript
+
+
+## Code 301 - *Intermediate Software Development*
+
+## Code 401 - ***Advanced Software*** Development
+
+## _-Things-I-want-to-know-more-about_
+
